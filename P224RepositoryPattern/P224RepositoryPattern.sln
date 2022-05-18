@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P224RepositoryPattern", "P224RepositoryPattern\P224RepositoryPattern.csproj", "{02F6B9BA-3A19-4329-B258-B68509EF0F66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F6B9BA-3A19-4329-B258-B68509EF0F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F6B9BA-3A19-4329-B258-B68509EF0F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F6B9BA-3A19-4329-B258-B68509EF0F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F6B9BA-3A19-4329-B258-B68509EF0F66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C265A4C-FEE1-49E0-853C-C09F93AA82F0}
+	EndGlobalSection
+EndGlobal
